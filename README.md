@@ -10,7 +10,8 @@ An Information Technology student with a strong passion for Business Analysis. D
 ![focus](https://img.shields.io/badge/focus-Business%20Analysis%20%7C%20Full%20Stack-🎯?style=flat-square&color=0078d4)
 
 - 💬 **Ask me about:** Business Analysis | System Analysis & Design | SQL & Database | Frontend & Mobile Development | UI/UX Design (Figma)
-- 💼 **Resume:** Check out my Resume at: [Canva Resume](https://www.canva.com/design/DAHNqv-cFN4/A6m0JyMbAFTtzn5yTribuA/edit?ui=eyJBIjp7fX0)
+- 💼 **Resume:** Check out my Resume at: [Resume](https://www.canva.com/design/DAHNqv-cFN4/A6m0JyMbAFTtzn5yTribuA/edit?ui=eyJBIjp7fX0)
+- 💼 **Portfolio:** Check out my Portfolio at: [Portfolio](https://www.canva.com/design/DAHNqv-cFN4/A6m0JyMbAFTtzn5yTribuA/edit?ui=eyJBIjp7fX0)
 - 👯 **I’m looking to collaborate on:** Business Analysis, System Architecture Design, and Web/Mobile Application Projects
 ---
 
