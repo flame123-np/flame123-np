@@ -64,36 +64,10 @@ An Information Technology student with a strong passion for Business Analysis. D
 
 ---
 
-## 📊 GitHub Stats & Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stroke-chart.vercel.app/?user=flame123-np&theme=dark&theme=tokyonight" width="100%" alt="Nuttaphat's Contribution Trend" />
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=flame123-np&show_icons=true&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=flame123-np&layout=compact&theme=tokyonight&hide_border=false" width="100%" alt="Coding Activity" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flame123-np&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="100%" alt="Top Languages by Repo" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flame123-np&theme=tokyonight" width="100%" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flame123-np&theme=tokyonight" width="100%" alt="Nuttaphat's Contribution Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=flame123-np&show_icons=true&theme=radial&hide_border=false" alt="Nuttaphat's GitHub stats" width="480">
 </p>
 
 ---
