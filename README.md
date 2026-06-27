@@ -73,5 +73,8 @@ An Information Technology student with a strong passion for Business Analysis. D
 ---
 
 ## 📬 Connect with me
-* **Email:** nuttaphat.y@ku.th
+
+* **Email:** [nuttaphat.y@ku.th](mailto:nuttaphat.y@ku.th)
+* **Phone:** 099-284-4585
+* **Address:** 9/1 Moo 11, Khlong Preng, Mueang, Chachoengsao 24000
 * **Education:** Kasetsart University (Computer Science / IT Graduate)
