@@ -56,7 +56,9 @@ An Information Technology student with a strong passion for Business Analysis. D
 
 ## 📊 GitHub Stats
 
-![Nuttaphat's GitHub stats](https://github-readme-stats.vercel.app/api?username=flame123-np&show_icons=true&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flame123-np&show_icons=true&theme=radial&hide_border=false" alt="Nuttaphat's GitHub stats" width="480">
+</p>
 
 ---
 
