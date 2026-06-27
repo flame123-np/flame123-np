@@ -13,6 +13,7 @@ An Information Technology student with a strong passion for Business Analysis. D
 - 💼 **Resume:** Check out my Resume at: [Canva Resume](https://www.canva.com/design/DAHNqv-cFN4/A6m0JyMbAFTtzn5yTribuA/edit?ui=eyJBIjp7fX0)
 - 👯 **I’m looking to collaborate on:** Business Analysis, System Architecture Design, and Web/Mobile Application Projects
 ---
+<img src="https://img.freepik.com/premium-vector/vector-illustration-cartoon-robot-with-laptop-cute-hand-drawn-robot_1151-73574.jpg" align="right" width="200" style="background-color: transparent;">
 
 ## 🛠️ Skilled in
 
