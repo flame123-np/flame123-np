@@ -17,7 +17,7 @@ An Information Technology student with a strong passion for Business Analysis. D
 
 ## 🛠️ Skilled in
 
-<img src="https://camo.githubusercontent.com/08ed795b461af9a6284f178d8ca745014a529e60e8000cf64c3f1ffd32ae0257/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64776e7572767376342f696d6167652f75706c6f61642f76313730313139373530362f617374726f6361745f656b72636d712e706e67" align="right" width="300" alt="Space Cat">
+<img src="https://camo.githubusercontent.com/08ed795b461af9a6284f178d8ca745014a529e60e8000cf64c3f1ffd32ae0257/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64776e7572767376342f696d6167652f75706c6f61642f76313730313139373530362f617374726f6361745f656b72636d712e706e67" align="right" width="350" alt="Space Cat">
 
 ### 💻 Programming & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
