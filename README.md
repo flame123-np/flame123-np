@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Nuttaphat!
+🎓 IT Graduate & Aspiring Business Analyst
+💻 Tech stack: SQL, JavaScript & Figma
+✨ Passionate about mapping business workflows & system architecture design.
 
-<!--
-**flame123-np/flame123-np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ My Skills & Tools
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Nuttaphat's GitHub stats](https://github-readme-stats.vercel.app/api?username=flame123-np&show_icons=true&theme=radial)
