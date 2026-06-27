@@ -16,39 +16,26 @@ An Information Technology student with a strong passion for Business Analysis. D
 
 ## 🛠️ Skilled in
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      <h3>💻 Programming & Frameworks</h3>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      </p>
-      <h3>🗄️ Database, Tools & Platforms</h3>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      </p>
-      <h3>📊 Business & Professional Skills</h3>
-      <ul>
-        <li><b>Analysis:</b> User Requirement Analysis, Data Mapping, Query Optimization</li>
-        <li><b>Design:</b> System Architecture Design (Use Case, Class Diagram, DFD), UI/UX Design</li>
-        <li><b>Soft Skills:</b> Stakeholder Collaboration, Logical Thinking, Problem Solving, Analytical Thinking</li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://png.pngtree.com/png-vector/20240923/ourlarge/pngtree-cute-cartoon-smiling-boy-using-laptop-icolated-on-black-background-png-image_13893943.png" alt="Coding Boy" width="100%">
-    </td>
-  </tr>
-</table>
+### 💻 Programming & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Database, Tools & Platforms
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Business & Professional Skills
+* **Analysis:** User Requirement Analysis, Data Mapping, Query Optimization
+* **Design:** System Architecture Design (Use Case, Class Diagram, DFD), UI/UX Design
+* **Soft Skills:** Stakeholder Collaboration, Logical Thinking, Problem Solving, Analytical Thinking
 
 ---
 
