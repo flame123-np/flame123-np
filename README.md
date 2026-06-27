@@ -45,6 +45,7 @@ An Information Technology student with a strong passion for Business Analysis. D
 * **Soft Skills:** Stakeholder Collaboration, Logical Thinking, Problem Solving, Analytical Thinking
 
 <br clear="right"/>
+
 ---
 
 ## 💼 Academic & Technical Projects
