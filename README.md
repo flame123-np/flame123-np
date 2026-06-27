@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="Nuttaphat Banner" width="100%">
+</p>
+
 # Hi there, I'm Nuttaphat! 👋
 🎓 **Information Technology Graduate & Aspiring Business Analyst**
 
